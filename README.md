@@ -28,7 +28,7 @@ sudo yum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinu
 
 sudo yum install terraform -y
 
-terraform --help
+terraform --help/terraform -version
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
