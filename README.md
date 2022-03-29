@@ -24,7 +24,7 @@ Commands to install Terraform
 
 sudo yum install yum-utils -y
 
-sudo yum-config-manager --add-repo https://releases.hashicorp.com/
+sudo yum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinux/hashicorp.repo
 
 sudo yum install terraform -y
 
